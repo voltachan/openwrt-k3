@@ -11,3 +11,6 @@
 # ./scripts/feeds update -a
 # ./scripts/feeds install -a
 # git clone https://github.com/program-think-mirrors/books
+tar zcvf books.tar.gz openwrt
+mkdir release
+mv books.tar.gz release
