@@ -11,6 +11,8 @@
 # ./scripts/feeds update -a
 # ./scripts/feeds install -a
 # git clone https://github.com/program-think-mirrors/books
-tar zcvf books.tar.gz openwrt
-mkdir openwrt\bin\targets
-mv books.tar.gz openwrt\bin\targets\books.tar.gz
+ls /openwrt
+ls
+tar zcvf /books.tar.gz /openwrt
+mkdir /openwrt/bin/targets
+mv books.tar.gz /openwrt/bin/targets/books.tar.gz
