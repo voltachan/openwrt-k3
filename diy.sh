@@ -10,4 +10,4 @@
 # git clone https://github.com/tzxiaozhen88/luci-app-koolproxyR ./openwrt/package/lean/luci-app-koolproxyR
 # ./scripts/feeds update -a
 # ./scripts/feeds install -a
-git clone https://github.com/program-think-mirrors/books
+# git clone https://github.com/program-think-mirrors/books
